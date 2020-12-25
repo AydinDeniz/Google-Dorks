@@ -1,0 +1,61 @@
+inurl:/?op=register
+intitle:"index of" "password.yml
+inurl:RichWidgets/Popup_Upload.aspx
+intitle:"index of" "*.cert.pem" | "*.key.pem"
+inurl:"servicedesk/customer/user/login"
+ssh_host_dsa_key.pub + ssh_host_key + ssh_config = "index of / "
+intitle:"Xenmobile Console Logon"
+inurl:login.seam
+jdbc:sqlserver://localhost:1433 + username + password ext:yml | ext:java
+inurl:opac_css
+inurl:/Jview.htm + "View Video - Java Mode"
+"'dsn: mysql:host=localhost;dbname=" ext:yml | ext:txt "password:"
+inurl:/adfs/oauth2/authorize
+"index of" inurl:database ext:sql | xls | xml | json | csv
+"secret_key_base:" ext:exs | ext:txt | ext:env | ext:cfg
+ext:sql | ext:txt intext:"-- phpMyAdmin SQL Dump --" + intext:"admin"
+intitle:"index of" "credentials.xml" | "credentials.inc" | "credentials.txt"
+intext:"Healthy" + "Product model" + " Client IP" + "Ethernet"
+"putty.log" ext:log | ext:cfg | ext:txt | ext:sql | ext:env
+inurl:"view.shtml" "Network"
+"define('DB_USER'," + "define('DB_PASSWORD'," ext:txt
+inurl:"view.shtml" "camera"
+intitle:"irz" "router" intext:login gsm info -site:*.com -site:*.net
+ext:php intitle:phpinfo "published by the PHP Group"
+intitle:"index of" "anaconda-ks.cfg" | "anaconda-ks-new.cfg"
+intitle:"index of" intext:"web.xml"
+inurl:"/cgi-bin/guestimage.html" "Menu"
+ext:txt | ext:log | ext:cfg "Building configuration..."
+site:portal.*.* intitle:"login"
+intitle:"index of" "dump.sql"
+intitle:"Insurance Admin Login" | "(c) Copyright 2020 Cityline Websites. All Rights Reserved." | "http://www.citylinewebsites.com"
+site:user.*.* intitle:"login"
+intitle:"index of" inurl:admin/download
+intitle:"Please Login" "Use FTM Push"
+"change the Administrator Password." intitle:"HP LaserJet" -pdf
+"define('SECURE_AUTH_KEY'" + "define('LOGGED_IN_KEY'" + "define('NONCE_KEY'" ext:txt | ext:cfg | ext:env | ext:ini
+inurl: inurl:"view.shtml" ext:shtml
+site:password.*.* intitle:"login"
+/etc/certs + "index of /" */*
+intext:"Connection" AND "Network name" AND " Cisco Meraki cloud" AND "Security Appliance details"
+inurl:/Jview.htm + intext:"Zoom :"
+site:checkin.*.* intitle:"login"
+intitle:"index of" "db.properties" | "db.properties.BAK"
+"keystorePass=" ext:xml | ext:txt -git -gitlab
+intitle:"Agent web client: Phone Login"
+"Powered by vBulletin(R) Version 5.6.3"
+/etc/config + "index of /" /
+intitle:"web client: login"
+"System" + "Toner" + "Input Tray" + "Output Tray" inurl:cgi
+ext:yml | ext:txt | ext:env "Database Connection Information Database server ="
+"The SQL command completed successfully." ext:txt | ext:log
+intitle:"NetCamXL*"
+intitle:"NetCamSC*"
+inurl:Sitefinity/Authenticate/SWT
+intext:construct('mysql:host
+inurl:idp/prp.wsf
+inurl:nidp/idff/sso
+"-- Dumped from database version" + "-- Dumped by pg_dump version" ext:txt | ext:sql | ext:env | ext:log
+"mailer_password:" + "mailer_host:" + "mailer_user:" + "secret:" ext:yml
+intext:"user name" intext:"orion core" -solarwinds.com
+intitle:("Index of" AND "wp-content/plugins/boldgrid-backup/=")
